@@ -1,0 +1,10 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "apdejt"
+author = "Namida Aneskans"
+author-email = "namida@skunkfrukt.se"
+home-page = "https://github.com/skunkfrukt/apdejt"
+classifiers = ["License :: OSI Approved :: MIT License"]
