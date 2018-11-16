@@ -7,7 +7,7 @@ A simple function that uses pip to install the dependencies of an application.
 import apdejt
 
 # Look for requirements in a specified directory:
-apdejt.install_dependencties(".")
+apdejt.install_dependencies(".")
 
 # Or, supply the whole path to requirements.txt explicitly.
 apdejt.install_dependencies("my_application/requirements.txt")
